@@ -1,0 +1,5 @@
+package br.caelum.mvc.servlet;
+
+public class ControllerServlet {
+
+}
