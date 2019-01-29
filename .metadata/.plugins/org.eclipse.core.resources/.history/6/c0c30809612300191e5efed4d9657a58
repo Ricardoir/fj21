@@ -1,0 +1,9 @@
+package br.com.caelum.agenda.filtro;
+
+import javax.servlet.Filter;
+
+
+
+public class FiltroTempoDeExcecucao implements Filter {
+
+}
